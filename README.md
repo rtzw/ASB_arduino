@@ -1,4 +1,4 @@
-# ASB_arduino
+# Program do ESP32
 Kod wygrywany do ESP32. \
 Po podłączeniu się do WiFi pobiera z serwisu informacje na temat temperatury załączania wentylatora (REST), informację o tym czy wentylator jest włączony oraz czy wentylator ma być włączany automatycznie.\
 Pozostała komunikacja odbywa się poprzez MQTT.\
